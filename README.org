@@ -6,5 +6,5 @@
 #+BEGIN_SRC shell
 yarn install
 yarn start
-yarn run build
+yarn run build # deploy in ./build folder
 #+END_SRC
