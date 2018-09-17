@@ -6,4 +6,5 @@
 #+BEGIN_SRC shell
 yarn install
 yarn start
+yarn run build
 #+END_SRC
