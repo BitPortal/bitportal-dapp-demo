@@ -2,6 +2,10 @@
 #+AUTHOR: Terence Ge
 #+DATE: 2018-9-11
 
+Demo usage for BitPortal EOS dApp API
+
+(Deprecated due to the popularity of Scatter)
+
 * Setup
 #+BEGIN_SRC shell
 yarn install
